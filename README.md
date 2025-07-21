@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratthicha Parinthip</h1>
-<h3 align="center">Software Engineering Student at Kasetsart University</h3
+<h3 align="center">Full stack dev</h3
 
 
 <h3 align="left">Contact me with:</h3>
